@@ -26,7 +26,7 @@ This program is a simple contract written in Solidity, a programming language us
 
 
 Peculiar Richard 
-[@DomPizzie](https://twitter.com/peculiarichard)
+ex. [@peculiarichard](https://twitter.com/peculiarichard)
 
 
 ## License
